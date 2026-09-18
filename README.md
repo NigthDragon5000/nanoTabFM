@@ -1,0 +1,1 @@
+This is a basic implementation of the core features of the tabFM model developed by Google. The idea of this project is not to replicate all the features of the model but to keep the essential ones, keep the model small and simple to understand, and finally try to achieve the same predictive power as the original one
